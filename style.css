@@ -1,11 +1,58 @@
- #pagecontent {
-	margin-top: 89px;
-	}
 body{
-	 background-color: Lightblue
+	 background-color: lightblue;
+	 background-image: url(img/bground.jpg);
+	 background-attachment:fixed;
+	 background-repeat: no-repeat;
+	 background-size: cover;
+	 padding-top: 60px;
+
 	}
-h1{color: White; text-align: center; font-size: 48px;}
-p{font-family: verdana;font-size:20px;color: Red; }
+
+
+footer{
+	padding: 1em;
+	color: white;
+	background-color: black;
+	clear: left;
+	text-align: center;
+	vertical-align:bottom;
+	margin-top: 140px;
+	background-image: url(img/fiber.jpg);
+	background-color: black;
+	background-repeat: no-repeat;
+	background-size: cover;
+
+}
+
+
+
+
+.row{
+	position: relative;
+	padding-right: 50px;
+	padding-left: 50px;
+	width: 100%;
+}
+
+nav{
+	background-image: url(img/fiber.jpg);
+	background-color: black;
+	background-repeat: no-repeat;
+	background-size: cover;
+
+
+
+}
+.consec{
+	display: inline;
+	position: relative;
+}
+
+
+
+
+h1{color: white; text-align: center; font-size: 48px;}
+p{font-family: verdana;font-size:20px;color: white; }
 .boldclass{font-weight: bold;}
 #bigID{font-size: 24px;}
 
