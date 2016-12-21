@@ -2,9 +2,8 @@
 	margin-top: 89px;
 	}
 body{
-	 background-color: Light Blue;
+	 background="style.jpg"
 	}
-
 h1{color: White; text-align: center; font-size: 48px;}
 p{font-family: verdana;font-size:20px;color: Black; }
 .boldclass{font-weight: bold;}
