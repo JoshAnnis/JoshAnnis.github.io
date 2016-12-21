@@ -2,10 +2,10 @@
 	margin-top: 89px;
 	}
 body{
-	 background-image: url("style.jpg");
+	 background-color: Light Blue;
 	}
 
-h1{color: LightBlue; text-align: center; font-size: 48px;}
+h1{color: White; text-align: center; font-size: 48px;}
 p{font-family: verdana;font-size:20px;color: Black; }
 .boldclass{font-weight: bold;}
 #bigID{font-size: 24px;}
