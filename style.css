@@ -5,7 +5,7 @@ body{
 	 background-color: Lightblue
 	}
 h1{color: White; text-align: center; font-size: 48px;}
-p{font-family: verdana;font-size:22px;color: Black; }
+p{font-family: verdana;font-size:20px;color: Red; }
 .boldclass{font-weight: bold;}
 #bigID{font-size: 24px;}
 
